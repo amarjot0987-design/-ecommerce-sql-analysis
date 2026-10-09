@@ -58,4 +58,4 @@ ecommerce-sql-analysis/
 ## 👤 Author
 **Amarjot Singh Chawla**
 B.Tech ECE (IoT) — NSUT Delhi
-[LinkedIn](https://linkedin.com/in/amarjotsinghchawla) | [GitHub](https://github.com/amarjot0987-desgin)
+[LinkedIn](https://www.linkedin.com/in/amarjot-singh-chawla-02b168422/) | [GitHub](https://github.com/amarjot0987-design)
